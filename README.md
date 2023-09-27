@@ -12,13 +12,13 @@ Ronaldo and Messi are both respected soccer players and are both GOATs of soccer
     <h1>
       Ronaldoo and Messi's GOAT argument.
 
-      <p> I will be discussing how Ronaldo and Messi are both GOATS of soccer and fans shouldn't fight over who is better.
+      <p> I will be discussing how Ronaldo and Messi are both GOATS of soccer and how fans shouldn't fight over who is better.
       </p>
 
       <h2>
-        They both have many achievements to the game.
+        They both have many trophies with the game.
         <img src="https://cdn.punchng.com/wp-content/uploads/2021/10/08193312/Ronaldo-Messi-Ballo-dOr.jpg" />
-        <p>  </p>
+        <p> Ronaldo and Messi both have their fair-share of ballon d'ors in the game. While Messi may have 7 and Ronaldo has 5 ballon d'ors, this doesn't necessarily say that Ronaldo is worse than Messi. Even though Ronaldo has less, he has more UEFA Champion League titles compared to Messi, which shows that they are both great players.  </p>
         <h2>
           <img src="" />
           <p> </p>
