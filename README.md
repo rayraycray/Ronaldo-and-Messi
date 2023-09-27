@@ -1,7 +1,7 @@
 # Ronaldo-and-Messi
 Ronaldo and Messi are both respected soccer players and are both GOATs of soccer.
 <body> 
-<img src="https://images.hola.com/us/images/027a-167b21aec371-35f735bf18e8-1000/vertical-1150/cristiano-y-messi.png" />
+<img src="https://images.hola.com/us/images/027a-167b21aec371-35f735bf18e8-1000/vertical-1150/cristiano-y-messi.png" width="300px" height="400px" />
 </body>
 <html>
 </html>
@@ -18,7 +18,9 @@ Ronaldo and Messi are both respected soccer players and are both GOATs of soccer
       <h2>
         They both have many trophies with the game.
         <img src="https://cdn.punchng.com/wp-content/uploads/2021/10/08193312/Ronaldo-Messi-Ballo-dOr.jpg" />
+        
         <p> Ronaldo and Messi both have their fair-share of ballon d'ors in the game. While Messi may have 7 and Ronaldo has 5 ballon d'ors, this doesn't necessarily say that Ronaldo is worse than Messi. Even though Ronaldo has less, he has more UEFA Champion League titles compared to Messi, which shows that they are both great players.  </p>
+        
         <h2>
           <img src="" />
           <p> </p>
