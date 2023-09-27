@@ -10,9 +10,9 @@ Ronaldo and Messi are both respected soccer players and are both GOATs of soccer
 <h3> by Rayan Faiz | 1 day ago </h3>
   <body>
     <h1>
-      <br> Ronaldo and Messi's GOAT argument. </br>
+      Ronaldo and Messi's GOAT argument.
 
-      <p> I will be discussing how Ronaldo and Messi are both GOATS of soccer and how fans shouldn't fight over who is better.
+      <p> <br> I will be discussing how Ronaldo and Messi are both GOATS of soccer and how fans shouldn't fight over who is better. </br>
       </p>
 
       <h2>
