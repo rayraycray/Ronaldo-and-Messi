@@ -22,8 +22,8 @@ Ronaldo and Messi are both respected soccer players and are both GOATs of soccer
         <p> Ronaldo and Messi both have their fair-share of ballon d'ors in the game. While Messi may have 7 and Ronaldo has 5 ballon d'ors, this doesn't necessarily say that Ronaldo is worse than Messi. Even though Ronaldo has less, he has more UEFA Champion League titles compared to Messi, which shows that they are both great players.  </p>
         
         <h2>
-          <img src="" />
-          <p> </p>
+          <img src="https://i.insider.com/60d1b92adb3f80001848d212?width=1000&format=jpeg&auto=webp" />
+          <p> Along with the amount of trophies they both have, Ronaldo and Messi are geniuses at the game of soccer. From their footwork to passing, they are truly outstanding players who have revolutionized the game of soccer. Both Messi and Ronaldo are known worldwide as two of the greatest players of all time and I believe they are right to believe so. </p>
           <h4> Related content </h4>
           <ul> How To Style Boyfriend Jeans </ul>
           <ul> When Print Is Too Much </ul>
