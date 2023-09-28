@@ -12,8 +12,7 @@ Ronaldo and Messi are both respected soccer players and are both GOATs of soccer
     <h1>
       Ronaldo and Messi's GOAT argument.
 
-      <p> <br> I will be discussing how Ronaldo and Messi are both GOATS of soccer and how fans shouldn't fight over who is better. </br>
-      </p>
+      <p> <br> I will be discussing how Ronaldo and Messi are both GOATS of soccer and how fans shouldn't fight over who is better. </p>
 
       <h2>
         They both have many trophies with the game.
@@ -24,4 +23,4 @@ Ronaldo and Messi are both respected soccer players and are both GOATs of soccer
         <h2>
           <img src="https://i.insider.com/60d1b92adb3f80001848d212?width=1000&format=jpeg&auto=webp" />
           <p> Along with the amount of trophies they both have, Ronaldo and Messi are geniuses at the game of soccer. From their footwork to passing, they are truly outstanding players who have revolutionized the game of soccer. </p>
-          <p> <br> All in all, both Ronaldo and Messi are some of the greatest of all times when it comes to the sport of soccer. From the amount of trophies they have earned since they started playing to how their mind works in the game, they are both truly outstanding players who deserve to be in the hall of fame. I believe that people should stop trying to argue on who is the GOAT and they should instead believe that Ronaldo and Messi are two separate people who don't actually hate each other, but instead respect each other very much. </br> </p>
+          <p> <br> All in all, both Ronaldo and Messi are some of the greatest of all times when it comes to the sport of soccer. From the amount of trophies they have earned since they started playing to how their mind works in the game, they are both truly outstanding players who deserve to be in the hall of fame. I believe that people should stop trying to argue on who is the GOAT and they should instead believe that Ronaldo and Messi are two separate people who don't actually hate each other, but instead respect each other very much. </p>
